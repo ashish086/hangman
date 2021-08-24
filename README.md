@@ -4,3 +4,7 @@ Playing this game is easy!!, just download this repo and simply run the hangamn.
 You can overwrite the wordlist.txt to add in your own words!!
 
 
+
+
+## Acknowledgements
+- The included graphics library, `graphics.py`, was written by John Zelle for use with the book "Python Programming: An Introduction to Computer Science" (Franklin, Beedle & Associates). 
